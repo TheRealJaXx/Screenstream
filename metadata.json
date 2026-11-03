@@ -1,0 +1,6 @@
+{
+  "name": "ScreenStream",
+  "description": "Ultra-low latency screen sharing and streaming app with hardware H.264 acceleration, browser web viewer, and precision latency diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
